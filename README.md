@@ -4,6 +4,10 @@ Some starter code to get you up and running quickly.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cwissy/examples_front-end-project-week)
 
+## For Deploying
+
+Make sure to set the `REACT_APP_API_URL` to be the url of your api. If you're deploying as part of the full project example, it will be from the [project week back end](https://github.com/cwissy/examples_back-end-project-week).
+
 
 ## Getting Started with Create React App
 
